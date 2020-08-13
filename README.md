@@ -16,5 +16,27 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Management Application
 - 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: [Facebook - @ronyaburaihan](https://facebook.com/ronyaburaihan) , [Linkedin - @ronyaburaihan](https://www.linkedin.com/in/ronyaburaihan/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronyaburaihan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Twitter: ronyaburaihan](https://img.shields.io/twitter/follow/ronyaburaihan?style=social)](https://twitter.com/ronyaburaihan)
+[![Linkedin: ronyaburaihan](https://img.shields.io/badge/-ronyaburaihan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/ronyaburaihan)](https://www.linkedin.com/in/imthepk/)
+[![GitHub ronyaburaihan](https://img.shields.io/github/followers/ronyaburaihan?label=follow&style=social)](https://github.com/ronyaburaihan)
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+
+
+<a href="https://github.com/ronyaburaihan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyaburaihan&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ronyaburaihan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
