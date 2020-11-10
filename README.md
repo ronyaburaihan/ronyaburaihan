@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Facebook - @ronyaburaihan](https://facebook.com/ronyaburaihan) , [Linkedin - @ronyaburaihan](https://www.linkedin.com/in/ronyaburaihan/)
 
 [![Twitter: ronyaburaihan](https://img.shields.io/twitter/follow/ronyaburaihan?style=social)](https://twitter.com/ronyaburaihan)
-[![Linkedin: ronyaburaihan](https://img.shields.io/badge/-ronyaburaihan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/ronyaburaihan)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: ronyaburaihan](https://img.shields.io/badge/-ronyaburaihan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/ronyaburaihan)](https://www.linkedin.com/in/ronyaburaihan/)
 [![GitHub ronyaburaihan](https://img.shields.io/github/followers/ronyaburaihan?label=follow&style=social)](https://github.com/ronyaburaihan)
 
 
