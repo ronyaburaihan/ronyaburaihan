@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/ronyaburaihan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&theme=light&line_height=27&count_private=true" alt="Abu Raihan Rony's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&theme=light&line_height=27&count_private=true&hide=issues,contribs" alt="Abu Raihan Rony's github stats"/>
 </a>
 
 <div align="center">
