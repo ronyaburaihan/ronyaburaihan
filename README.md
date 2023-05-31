@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on Android Projects
 - 🌱 I’m currently learning Flutter.
-- 💬 Ask me about ***Android, Kotlin, Java, MongoDB, Firebase, Node.js***
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 💬 Ask me about ***Android, Kotlin, Java, Firebase***
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play
 - 👯 I’m looking to collaborate with other developer
 
