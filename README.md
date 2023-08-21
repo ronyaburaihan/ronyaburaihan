@@ -12,7 +12,7 @@
 - 💬 Ask me about ***Android, Kotlin, Java, Firebase***
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play
-- 👯 I’m looking to collaborate with other developer
+- 👯 I’m looking to collaborate with other developers
 
 ### Connect with me:
 
@@ -60,7 +60,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyaburaihan&theme=dark&layout=compact" alt="ronyaburaihan" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&theme=dark&line_height=27&count_private=true&hide=issues" alt="ronyaburaihan" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&theme=dark&line_height=27&include_all_commits=true" alt="ronyaburaihan" />
     </td>
    </tr>
 </table>
