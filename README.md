@@ -8,7 +8,7 @@
 ## I'm an Android Application Developer!!
 
 - 🔭 I’m currently working on Android Projects
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning iOS development using Swift.
 - 💬 Ask me about ***Android, Kotlin, Java, Firebase***
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play
