@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Android Projects
 - 🌱 I’m currently learning iOS development using Swift.
 - 💬 Ask me about ***Android, Kotlin, Java, Firebase***
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play
 - 👯 I’m looking to collaborate with other developers
 
