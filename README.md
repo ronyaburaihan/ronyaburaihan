@@ -49,9 +49,6 @@
 ---
 
 <!-- [website]: https://ronyaburaihan.me -->
-[twitter]: https://twitter.com/ronyaburaihan
-[facebook]: https://www.facebook.com/ronyaburaihan
-[instagram]: https://www.instagram.com/ronyaburaihan
 [linkedin]: https://www.linkedin.com/in/ronyaburaihan
 
 <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
