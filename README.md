@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on Android Projects
 - 🌱 I’m currently learning Compose Multiplatform.
-- 💬 Ask me about ***Android, Kotlin, Java, Firebase***
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 💬 Ask me about ***Android, KMP, Kotlin, Java, Firebase***
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play
 - 👯 I’m looking to collaborate with other developers
 
