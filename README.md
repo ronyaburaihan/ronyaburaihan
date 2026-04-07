@@ -5,14 +5,15 @@
 [![Website](https://img.shields.io/website?label=ronyaburaihan.me&style=for-the-badge&url=https://ronyaburaihan.github.io/portfolio)](https://ronyaburaihan.github.io/portfolio)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/ronyaburaihan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ronyaburaihan) -->
 
-## I'm an Android Application Developer!!
+## 🚀 Android & Multiplatform Mobile Developer
 
-- 🔭 I’m currently working on Android Projects
-- 🌱 I’m currently learning Compose Multiplatform.
-- 💬 Ask me about ***Android, KMP, Kotlin, Java, Firebase***
-- 🥅 2026 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play
-- 👯 I’m looking to collaborate with other developers
+* 🔭 Currently leading mobile development projects, including Android and Kotlin Multiplatform (KMP)
+* 🌱 Continuously learning and building with Compose Multiplatform and modern mobile technologies
+* 💬 Ask me about **Android, Kotlin, KMP, Flutter, Firebase, and Clean Architecture**
+* 🥅 2026 Goal: Contribute more to open-source and build impactful cross-platform solutions
+* ⚡ Enjoy solving complex problems and optimizing app performance
+* 👯 Open to collaborating on innovative mobile and multiplatform projects
+
 
 ### Connect with me:
 
