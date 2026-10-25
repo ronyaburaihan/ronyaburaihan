@@ -1,64 +1,57 @@
-<!-- ### Hi there, I'm Abu Raihan Rony 👋 -->
+# Hi, I'm Abu Raihan Rony 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&pause=1000&width=440&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there%2C+I'm+Abu+Raihan+Rony)](https://github.com/ronyaburaihan)
+**Senior Software Engineer (Android & iOS)** at [Envobyte](https://envobyte.com), leading the mobile team.
+I ship Android and iOS apps from one Kotlin codebase with Kotlin Multiplatform, and native apps with Jetpack Compose and SwiftUI.
 
-[![Website](https://img.shields.io/website?label=ronyaburaihan.me&style=for-the-badge&url=https://ronyaburaihan.github.io/portfolio)](https://ronyaburaihan.github.io/portfolio)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/ronyaburaihan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ronyaburaihan) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-ronyaburaihan.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white)](https://ronyaburaihan.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronyaburaihan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronyaburaihan/)
 
-## 🚀 Android & Multiplatform Mobile Developer
+## Shipped recently
 
-* 🔭 Currently leading mobile development projects, including Android and Kotlin Multiplatform (KMP)
-* 🌱 Continuously learning and building with Compose Multiplatform and modern mobile technologies
-* 💬 Ask me about **Android, Kotlin, KMP, Flutter, Firebase, and Clean Architecture**
-* 🥅 2026 Goal: Contribute more to open-source and build impactful cross-platform solutions
-* ⚡ Enjoy solving complex problems and optimizing app performance
-* 👯 Open to collaborating on innovative mobile and multiplatform projects
+| App | What I did | Get it |
+| --- | --- | --- |
+| **TTBoost** | Owned security, auth and the API layer for an 18-module app with **2.3M+ downloads**: Firebase App Check, replay-safe request signing, API v3 → v6 | [Google Play](https://play.google.com/store/apps/details?id=com.ttboost.tik.tok.followers.likes) |
+| **Turner: Live Voice Translator** | Led a team of 5. Kotlin Multiplatform with **~80% shared code**, live speech-to-text, 66 languages | [Google Play](https://play.google.com/store/apps/details?id=com.live.voice.translator.instant.speakandtranslate) · [App Store](https://apps.apple.com/us/app/turner-live-voice-translator/id6757461822) |
+| **ImproveType: AI Keyboard** | AI keyboard on both platforms in 50+ languages; iOS keyboard extension tuned to fit Apple's **~60 MB memory cap** | [Google Play](https://play.google.com/store/apps/details?id=com.improvetype.ai.keyboard) · [App Store](https://apps.apple.com/us/app/improvetype-ai-keyboard/id6786580580) |
+| **Image Enlarger** | Kotlin Multiplatform with **~82% shared code**; AI upscaling, face restoration, offline gallery | [Google Play](https://play.google.com/store/apps/details?id=com.image.enlarger.enhancer.upscaler) · [App Store](https://apps.apple.com/app/id6759970215) |
+| **HashTag & AI Post Writer** | Kotlin Multiplatform with **~93% shared code**; AI captions, hashtags and post planner | [Google Play](https://play.google.com/store/apps/details?id=com.ai.hashtag.generator.caption.writer) · [App Store](https://apps.apple.com/us/app/hashtag-ai-caption-generator/id6760386747) |
 
+Case studies and the full list are on my [portfolio](https://ronyaburaihan.github.io/portfolio/).
 
-### Connect with me:
+## Open source
 
-<!-- [<img align="left" alt="ronyaburaihan.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="ronyaburaihan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] -->
-[<img align="left" alt="ronyaburaihan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+- **[android-kmp-development](https://github.com/ronyaburaihan/android-kmp-development)**: Agent Skill that makes AI coding agents reliable on existing Android and Kotlin Multiplatform codebases. Works with Claude Code, Codex, Cursor and Copilot.
+- **[NetSpeedIndicator](https://github.com/ronyaburaihan/NetSpeedIndicator)**: real-time network speed and data usage tracker. Jetpack Compose, Clean Architecture, Hilt, Room.
+- **[Weatherly-KMP](https://github.com/ronyaburaihan/Weatherly-KMP)**: weather app for Android and iOS. Kotlin Multiplatform, Compose Multiplatform, Ktor, Koin.
 
-### Languages and Tools:
+## Tech stack
 
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+**Architecture:** Clean Architecture · MVVM · multi-module · Hilt · Koin · Coroutines & Flow<br>
+**Data and billing:** Room · SQLDelight · DataStore · Retrofit · RevenueCat · Play Billing · StoreKit 2
 
-<br />
-<br />
+## Recognition
 
----
+🏆 Performance Excellence Award, Q1 2026 · Best Performer of the Year 2025 · Employee of the Quarter, Q3 2025 (Envobyte)
 
-<!-- [website]: https://ronyaburaihan.me -->
-[linkedin]: https://www.linkedin.com/in/ronyaburaihan
+## GitHub stats
 
-<table cellspacing="0" cellpadding="0" style="border:none;" align="center">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyaburaihan&theme=dark&layout=compact" alt="ronyaburaihan" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&theme=dark&line_height=27&include_all_commits=true" alt="ronyaburaihan" />
-    </td>
-   </tr>
-</table>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronyaburaihan&theme=dark&layout=compact)](https://github.com/ronyaburaihan/github-readme-stats)
-
-[![ronyaburaihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&theme=dark&line_height=27&count_private=true&hide=issues)](https://github.com/ronyaburaihan/github-readme-stats) -->
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&hide=issues&hide_border=true&theme=github_dark" />
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ronyaburaihan&show_icons=true&hide=issues&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyaburaihan&layout=compact&hide_border=true&theme=github_dark" />
+    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyaburaihan&layout=compact&hide_border=true" />
+  </picture>
+</p>
