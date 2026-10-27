@@ -11,10 +11,10 @@ I ship Android and iOS apps from one Kotlin codebase with Kotlin Multiplatform, 
 | App | What I did | Get it |
 | --- | --- | --- |
 | **TTBoost** | Owned security, auth and the API layer for an 18-module app with **2.3M+ downloads**: Firebase App Check, replay-safe request signing, API v3 → v6 | [Google Play](https://play.google.com/store/apps/details?id=com.ttboost.tik.tok.followers.likes) |
-| **Turner: Live Voice Translator** | Led a team of 5. Kotlin Multiplatform with **~80% shared code**, live speech-to-text, 66 languages | [Google Play](https://play.google.com/store/apps/details?id=com.live.voice.translator.instant.speakandtranslate) · [App Store](https://apps.apple.com/us/app/turner-live-voice-translator/id6757461822) |
 | **ImproveType: AI Keyboard** | AI keyboard on both platforms in 50+ languages; iOS keyboard extension tuned to fit Apple's **~60 MB memory cap** | [Google Play](https://play.google.com/store/apps/details?id=com.improvetype.ai.keyboard) · [App Store](https://apps.apple.com/us/app/improvetype-ai-keyboard/id6786580580) |
+| **Turner: Live Voice Translator** | Led a team of 5. Kotlin Multiplatform with **~80% shared code**, live speech-to-text, 66 languages | [Google Play](https://play.google.com/store/apps/details?id=com.live.voice.translator.instant.speakandtranslate) · [App Store](https://apps.apple.com/us/app/turner-live-voice-translator/id6757461822) |
 | **Image Enlarger** | Kotlin Multiplatform with **~82% shared code**; AI upscaling, face restoration, offline gallery | [Google Play](https://play.google.com/store/apps/details?id=com.image.enlarger.enhancer.upscaler) · [App Store](https://apps.apple.com/app/id6759970215) |
-| **HashTag & AI Post Writer** | Kotlin Multiplatform with **~93% shared code**; AI captions, hashtags and post planner | [Google Play](https://play.google.com/store/apps/details?id=com.ai.hashtag.generator.caption.writer) · [App Store](https://apps.apple.com/us/app/hashtag-ai-caption-generator/id6760386747) |
+| **Genofax** | Health and wellness app: native Android in Kotlin (MVVM, Hilt, Retrofit) plus a **Flutter iOS build**, with real-time data sync | [Google Play](https://play.google.com/store/apps/details?id=com.genofax.app) · [App Store](https://apps.apple.com/us/app/genofax/id1659824945) |
 
 Case studies and the full list are on my [portfolio](https://ronyaburaihan.github.io/portfolio/).
 
